@@ -32,18 +32,14 @@ pod 'WSModel'
 如果Model中的property对应的json的key不同名。则需要覆写`- (NSDictionary *)replaceJsonKeysWithProperties;`方法.该方法返回一个字典.字典的key和value都是`NSString *`类型。其中key是jsonkey，value是property。如下：
 ```objc
 @interface GiftModel : NSObject
-
-@property (nonatomic, assign) NSInteger count;
-
 @property (nonatomic, copy) NSString *icon;
-
 @property (nonatomic, assign) NSInteger giftId;
-
 @end
 
 @implementation GiftModel
 - (NSDictionary *)replaceJsonKeysWithProperties {
-    `return @{@"id":@"giftId"};`
+    // json中的id将被解析为giftId
+    return @{@"id":@"giftId"};
 }
 @end
 
