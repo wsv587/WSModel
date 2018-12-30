@@ -1,0 +1,6 @@
+framework module Pods_WSModel_Example {
+  umbrella header "Pods-WSModel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

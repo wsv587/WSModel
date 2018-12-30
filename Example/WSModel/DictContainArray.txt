@@ -1,0 +1,29 @@
+{
+
+"data": [{
+"userId": 130074532,
+"userName": "aaaaaaaaaaaaaaaaaaa",
+"grade": 15,
+"newGrade": 43,
+"avatar": "http://r.plures.net/no-avatar.jpg",
+"joinTime": 1515054412,
+"nobleLevel": 7
+},{
+"userId": 130179532,
+"userName": "bbbbbbbbbb",
+"grade": 15,
+"newGrade": 43,
+"avatar": "http://r.plures.net/no-avatar.jpg",
+"joinTime": 1515054412,
+"nobleLevel": 7
+},{
+"userId": 130089532,
+"userName": "ccccccccccccccc",
+"grade": 15,
+"newGrade": 43,
+"avatar": "http://r.plures.net/no-avatar.jpg",
+"joinTime": 1515054412,
+"nobleLevel": 7
+}]
+
+}

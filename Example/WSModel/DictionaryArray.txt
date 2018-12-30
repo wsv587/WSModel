@@ -1,0 +1,185 @@
+[{
+	"count": "2950",
+	"trend": null,
+	"stealthy": {
+		"isHide": false,
+		"nickname": "12345",
+		"avatar": ""
+	},
+	"userId": 134214853,
+	"userName": "生日快乐我爱大球",
+	"avatar": "http://r.plures.net/no-avatar.jpg",
+	"grade": 16,
+	"newGrade": 47,
+	"vipType": 0,
+	"isGuardExpired": true,
+	"guardType": 0,
+	"isYearGuard": false,
+	"sportVipInfo": {
+		"type": 0,
+		"expire": 0,
+		"sort": 0
+	},
+	"nobleLevel": 0
+}, {
+	"count": 2600,
+	"trend": null,
+	"stealthy": {
+		"isHide": false,
+		"nickname": "",
+		"avatar": ""
+	},
+	"userId": 139023919,
+	"userName": "八戒姓啥",
+	"avatar": "http://r.plures.net/no-avatar.jpg",
+	"grade": 5,
+	"newGrade": 4,
+	"vipType": 0,
+	"isGuardExpired": true,
+	"guardType": 0,
+	"isYearGuard": false,
+	"sportVipInfo": {
+		"type": 0,
+		"expire": 0,
+		"sort": 0
+	},
+	"nobleLevel": 0
+}, {
+	"count": 500,
+	"trend": null,
+	"stealthy": {
+		"isHide": true,
+		"nickname": "98765",
+		"avatar": ""
+	},
+	"userId": 31132603,
+	"userName": "茉莉家的克星",
+	"avatar": "http://pic.plures.net/gz0i/mncu/29a3b97cffa315dd82bfc0ce748286fc.jpg",
+	"grade": 7,
+	"newGrade": 7,
+	"vipType": 0,
+	"isGuardExpired": true,
+	"guardType": 0,
+	"isYearGuard": false,
+	"sportVipInfo": {
+		"type": 0,
+		"expire": 0,
+		"sort": 0
+	},
+	"nobleLevel": 0
+}, {
+	"count": 330,
+	"trend": null,
+	"stealthy": {
+		"isHide": false,
+		"nickname": "",
+		"avatar": ""
+	},
+	"userId": 122538495,
+	"userName": "可爱迷人大反派",
+	"avatar": "http://pic.plures.net/1reb/hdbp/f93e61c98008f68d3d152c39c5ad393a.jpg",
+	"grade": 11,
+	"newGrade": 16,
+	"vipType": 0,
+	"isGuardExpired": true,
+	"guardType": 0,
+	"isYearGuard": false,
+	"sportVipInfo": {
+		"type": 0,
+		"expire": 0,
+		"sort": 0
+	},
+	"nobleLevel": 0
+}, {
+	"count": 100,
+	"trend": null,
+	"stealthy": {
+		"isHide": true,
+		"nickname": "神秘人（马奶子）",
+		"avatar": ""
+	},
+	"userId": 72472090,
+	"userName": "火焰༺๑龍騎士๑༻",
+	"avatar": "http://pic.plures.net/users/avatar/072/472/090/72472090/54d3db09810b7f6fd858d693530fda91.png",
+	"grade": 13,
+	"newGrade": 35,
+	"vipType": 2,
+	"isGuardExpired": false,
+	"guardType": 1,
+	"isYearGuard": false,
+	"sportVipInfo": {
+		"type": 0,
+		"expire": 0,
+		"sort": 0
+	},
+	"nobleLevel": 0
+}, {
+	"count": 10,
+	"trend": null,
+	"stealthy": {
+		"isHide": false,
+		"nickname": "",
+		"avatar": ""
+	},
+	"userId": 8633880,
+	"userName": "李梦云小哥哥",
+	"avatar": "http://pic.plures.net/ehzr/hwth/517e52bc51d42718febbe91dd4abdae4.jpg",
+	"grade": 15,
+	"newGrade": 46,
+	"vipType": 0,
+	"isGuardExpired": true,
+	"guardType": 0,
+	"isYearGuard": false,
+	"sportVipInfo": {
+		"type": 0,
+		"expire": 0,
+		"sort": 0
+	},
+	"nobleLevel": 0
+}, {
+	"count": 10,
+	"trend": null,
+	"stealthy": {
+		"isHide": false,
+		"nickname": "",
+		"avatar": ""
+	},
+	"userId": 46637829,
+	"userName": "魔羽",
+	"avatar": "http://pic.plures.net/users/avatar/046/637/829/46637829/be64471a8888b1995fb27b52d0911f59.png",
+	"grade": 8,
+	"newGrade": 9,
+	"vipType": 0,
+	"isGuardExpired": true,
+	"guardType": 0,
+	"isYearGuard": false,
+	"sportVipInfo": {
+		"type": 0,
+		"expire": 0,
+		"sort": 0
+	},
+	"nobleLevel": 0
+}, {
+	"count": 10,
+	"trend": null,
+	"stealthy": {
+		"isHide": false,
+		"nickname": "",
+		"avatar": ""
+	},
+	"userId": 72891021,
+	"userName": "李土豪",
+	"avatar": "http://pic.plures.net/wnil/r6qa/bddbf3ead9468fcf9dc042137787978d.jpg",
+	"grade": 6,
+	"newGrade": 6,
+	"vipType": 0,
+	"isGuardExpired": true,
+	"guardType": 0,
+	"isYearGuard": false,
+	"sportVipInfo": {
+		"type": 0,
+		"expire": 0,
+		"sort": 0
+	},
+	"nobleLevel": 0
+}]

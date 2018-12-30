@@ -1,0 +1,87 @@
+{
+    "code": 1,
+    "data": {
+        "items": [
+            {
+                "avatar": "http://img2.plures.net/users/avatar/027/218/978/27218978/0587feee233fcaa2b23d1e1a95588bc8.png",
+                "geocode": 0,
+                "grade": 7,
+                "newGrade": 8,
+                "sex": 1,
+                "status": 1,
+                "uid": 27218978,
+                "username": "✿情久-小君宝宝"
+            },
+{
+                "avatar": "http://img2.plures.net/users/avatar/027/218/978/27218978/0587feee233fcaa2b23d1e1a95588bc8.png",
+                "geocode": 0,
+                "grade": 7,
+                "newGrade": 8,
+                "sex": 1,
+                "status": 1,
+                "uid": 27218978,
+                "username": "✿情久-小君宝宝"
+            },
+{
+                "avatar": "http://img2.plures.net/users/avatar/027/218/978/27218978/0587feee233fcaa2b23d1e1a95588bc8.png",
+                "geocode": 0,
+                "grade": 7,
+                "newGrade": 8,
+                "sex": 1,
+                "status": 1,
+                "uid": 27218978,
+                "username": "✿情久-小君宝宝"
+            },{
+                "avatar": "http://img2.plures.net/users/avatar/027/218/978/27218978/0587feee233fcaa2b23d1e1a95588bc8.png",
+                "geocode": 0,
+                "grade": 7,
+                "newGrade": 8,
+                "sex": 1,
+                "status": 1,
+                "uid": 27218978,
+                "username": "✿情久-小君宝宝"
+            },
+{
+                "avatar": "http://img2.plures.net/users/avatar/027/218/978/27218978/0587feee233fcaa2b23d1e1a95588bc8.png",
+                "geocode": 0,
+                "grade": 7,
+                "newGrade": 8,
+                "sex": 1,
+                "status": 1,
+                "uid": 27218978,
+                "username": "✿情久-小君宝宝"
+            },
+{
+                "avatar": "http://img2.plures.net/users/avatar/027/218/978/27218978/0587feee233fcaa2b23d1e1a95588bc8.png",
+                "geocode": 0,
+                "grade": 7,
+                "newGrade": 8,
+                "sex": 1,
+                "status": 1,
+                "uid": 27218978,
+                "username": "✿情久-小君宝宝"
+            },
+{
+                "avatar": "http://img2.plures.net/users/avatar/027/218/978/27218978/0587feee233fcaa2b23d1e1a95588bc8.png",
+                "geocode": 0,
+                "grade": 7,
+                "newGrade": 8,
+                "sex": 1,
+                "status": 1,
+                "uid": 27218978,
+                "username": "✿情久-小君宝宝"
+            },{
+                "avatar": "http://img2.plures.net/users/avatar/027/218/978/27218978/0587feee233fcaa2b23d1e1a95588bc8.png",
+                "geocode": 0,
+                "grade": 7,
+                "newGrade": 8,
+                "sex": 1,
+                "status": 1,
+                "uid": 27218978,
+                "username": "✿情久-小君宝宝"
+            }
+        ],
+        "totalItems": 100
+    },
+    "message": "成功"
+}

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WSModel_Example' do
+  pod 'WSModel', :path => '../'
+
+  target 'WSModel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

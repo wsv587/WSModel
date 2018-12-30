@@ -1,0 +1,6 @@
+framework module WSModel {
+  umbrella header "WSModel-umbrella.h"
+
+  export *
+  module * { export * }
+}

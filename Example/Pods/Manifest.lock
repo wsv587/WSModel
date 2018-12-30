@@ -1,0 +1,16 @@
+PODS:
+  - WSModel (0.1.0)
+
+DEPENDENCIES:
+  - WSModel (from `../`)
+
+EXTERNAL SOURCES:
+  WSModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSModel: b1f29de378a7cd34694dc4286974d8a28593f01a
+
+PODFILE CHECKSUM: df6663bed6688c4dd96b575b35033e34de118f64
+
+COCOAPODS: 1.5.3

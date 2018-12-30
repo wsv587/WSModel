@@ -1,0 +1,54 @@
+{
+"status" : 10000,
+"message" : "请求成功",
+"data" : {
+"totalItems" : 2,
+"list" : [
+{
+"status" : 1,
+"id" : 987654,
+"songName" : "我",
+"roomId" : 1681382,
+"time" : 12,
+"user" : {
+"sex" : 1,
+"isTrueName" : 0,
+"geocode" : 0,
+"isSport" : 0,
+"avatar" : "http://res2.plures.net/content/images/avatar-default-info.jpg",
+"userId" : 100000014,
+"userGrade" : 35,
+"isYearGuard" : true,
+"guardType" : 0,
+"platformType" : 0,
+"nickname" : "龙珠用户_HAX0Ctw2GpCJ",
+"vipType" : 0,
+"grade" : -1
+}
+},
+{
+"status" : 1,
+"id" : 1234,
+"songName" : "我",
+"roomId" : 1681382,
+"time" : 12,
+"user" : {
+"sex" : 1,
+"isTrueName" : 0,
+"geocode" : 0,
+"isSport" : 0,
+"avatar" : "http://res2.plures.net/content/images/avatar-default-info.jpg",
+"userId" : 100000014,
+"userGrade" : 35,
+"isYearGuard" : false,
+"guardType" : 0,
+"platformType" : 0,
+"nickname" : "龙珠用户_HAX0Ctw2GpCJ",
+"vipType" : 0,
+"grade" : -1
+}
+}
+]
+
+}
+}
