@@ -22,12 +22,12 @@ pod 'WSModel'
 ```
 
 ### Source code
-把Classes文件夹下的所有文件拖入工程中。引入头文件`#import NSObject+WSJsonToModel.h`
+把WSModel/Classes文件夹下的所有.h、.m文件拖入工程中。然后引入主头文件`#import WSModel.h`
 
 
 ## Author
 
-nlgb, wanggyanmo@163.com
+wangsong, wanggyanmo@163.com
 
 ## License
 
