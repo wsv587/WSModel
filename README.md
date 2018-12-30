@@ -12,7 +12,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ## Requirements
 
 
-# Usage
+## Installation
 ### Cocoapods
 WSModel is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
@@ -22,12 +22,51 @@ pod 'WSModel'
 ```
 
 ### Source code
-把Classes文件夹下的所有文件拖入工程中。引入头文件`#import NSObject+WSJsonToModel.h`
+把WSModel/Classes文件夹下的所有.h、.m文件拖入工程中。
 
+## Usage
+
+1.引入主头文件`#import WSModel/WSModel.h\`或`#import WSModel.h`
+2.使用静态方法`+ (id)modelWithJson:(id)json;`进行json-model转换。
+### replaceJsonKeysWithProperties
+如果Model中的property对应的json的key不同名。则需要覆写`- (NSDictionary<NSString *, NSString *> *)replaceJsonKeysWithProperties;`方法.该方法返回一个字典.字典的key和value都是`NSString *`类型。其中key是jsonkey，value是property。如下：
+```objc
+@interface GiftModel : NSObject
+@property (nonatomic, copy) NSString *icon;
+@property (nonatomic, assign) NSInteger giftId;
+@end
+
+@implementation GiftModel
+- (NSDictionary *)replaceJsonKeysWithProperties {
+    // json中的id将被解析为giftId
+    return @{@"id":@"giftId"};
+}
+@end
+
+```
+
+### arrayContainsCustomClass
+如果Model中的property是一个数组，而这个数组中又包含若干个自定义类。则需要覆`- (NSDictionary<NSString *, NSString *> *)arrayContainsCustomClass;`方法.该方法返回一个字典.字典的key和value都是`NSString *`类型。其中key是数组名，value是数组中包含的自定义类型。如下：
+```objc
+@interface ItemModel: NSObject
+@property(nonatomic,copy) NSString *ID;
+@property(nonatomic,assign) unsigned long long time;
+@property(nonatomic,assign) NSInteger status;
+@property(nonatomic,strong) NSArray<UserModel *> *user;
+@end
+
+@implementation ItemModel
+- (NSDictionary *)arrayContainsCustomClass {
+    // user数组中包含的是若干个UserModel对象
+    return @{@"user":@"UserModel"};
+}
+@end
+
+```
 
 ## Author
 
-nlgb, wanggyanmo@163.com
+wangsong, wanggyanmo@163.com
 
 ## License
 
