@@ -26,7 +26,7 @@ pod 'WSModel'
 
 ## Usage
 
-1.引入主头文件`#import WSModel/WSModel.h\`或`#import WSModel.h`
+1.引入主头文件`#import <WSModel/WSModel.h>`或`#import WSModel.h`
 2.使用静态方法`+ (id)modelWithJson:(id)json;`进行json-model转换。
 ### replaceJsonKeysWithProperties
 如果Model中的property对应的json的key不同名。则需要覆写`- (NSDictionary<NSString *, NSString *> *)replaceJsonKeysWithProperties;`方法.该方法返回一个字典.字典的key和value都是`NSString *`类型。其中key是jsonkey，value是property。如下：
